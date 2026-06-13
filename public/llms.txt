@@ -1,0 +1,68 @@
+# ורד חסון נומרולוגית, מרצה ומאמנת אישית. — Generative Engine Optimization Map
+
+> Vered Hasson is a numerologist, lecturer, and personal coach who specializes in creating clarity for people who want to move forward in life. Her brand combines professional credibility with personal empowerment, targeting individuals aged 20-50 as well as large organizations. She offers lectures, workshops, and personal coaching sessions, all centered around the theme of personal development. The brand's tone is elegant, trustworthy, and inspirational, with a focus on driving action through compelling calls-to-action, testimonials, and video content.
+
+---
+
+## Pages
+
+### דף הבית
+https://-244a38d6.zappy5.app
+מוכנים לפרוץ דרך? ורד חסון, מאמנת אישית מובילה, מזמינה אתכם להרצאות, סדנאות ואימון אישי שיעניקו לכם בהירות וכוח לנוע קדימה. הצטרפו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-244a38d6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-244a38d6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-244a38d6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-244a38d6.zappy5.app
+- Endpoint: https://-244a38d6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ורד חסון נומרולוגית, מרצה ומאמנת אישית.
+Vered Hasson is a numerologist, lecturer, and personal coach who specializes in creating clarity for people who want to move forward in life. Her brand combines professional credibility with personal empowerment, targeting individuals aged 20-50 as well as large organizations. She offers lectures, workshops, and personal coaching sessions, all centered around the theme of personal development. The brand's tone is elegant, trustworthy, and inspirational, with a focus on driving action through compelling calls-to-action, testimonials, and video content.
+
+## Target Audience
+- גברים ונשים בגילאי 20-50 המעוניינים בהתפתחות אישית, ארגונים גדולים
+- תוכניות רווחה ארגוניות
+- התפתחות אישית
+- סדנאות, הרצאות, אימון אישי
+- נומרולוגיה
+
+## Industry
+Personal Development & Coaching
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-244a38d6.zappy5.app/sitemap.xml
+- Robots: https://-244a38d6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-244a38d6.zappy5.app/llms-full.txt
