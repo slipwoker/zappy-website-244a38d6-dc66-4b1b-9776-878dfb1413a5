@@ -5097,6 +5097,33 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  overflow-y: auto !important;
+  overflow-x: clip !important;
+  height: auto !important;
+}
+
+#hero.index-hero-section {
+  overflow-y: visible !important;
+  overflow-x: hidden !important;
+}
+
+.index-hero-section-bg,
+.index-hero-section-overlay {
+  pointer-events: none !important;
+}
+
+.index-hero-section-overlay a,
+.index-hero-section-overlay button,
+.index-hero-section-overlay .index-hero-section-ctas,
+.index-hero-section-overlay .index-hero-section-btn {
+  pointer-events: auto !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
